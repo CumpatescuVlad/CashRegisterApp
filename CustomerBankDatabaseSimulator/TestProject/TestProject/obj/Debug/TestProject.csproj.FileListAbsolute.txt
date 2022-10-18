@@ -1,8 +1,0 @@
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\bin\Debug\TestProject.exe.config
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\bin\Debug\TestProject.exe
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\bin\Debug\TestProject.pdb
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\obj\Debug\TestProject.csproj.SuggestedBindingRedirects.cache
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\obj\Debug\TestProject.exe
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestProject\TestProject\obj\Debug\TestProject.pdb

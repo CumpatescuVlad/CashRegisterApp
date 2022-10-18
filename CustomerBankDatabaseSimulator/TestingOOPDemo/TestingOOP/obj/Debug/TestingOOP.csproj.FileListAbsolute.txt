@@ -1,8 +1,0 @@
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\bin\Debug\TestingOOP.exe.config
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\bin\Debug\TestingOOP.exe
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\bin\Debug\TestingOOP.pdb
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\obj\Debug\TestingOOP.csproj.AssemblyReference.cache
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\obj\Debug\TestingOOP.csproj.SuggestedBindingRedirects.cache
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\obj\Debug\TestingOOP.csproj.CoreCompileInputs.cache
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\obj\Debug\TestingOOP.exe
-E:\CODE REPOS\CustomerBankDatabaseSimulator\TestingOOPDemo\TestingOOP\obj\Debug\TestingOOP.pdb
