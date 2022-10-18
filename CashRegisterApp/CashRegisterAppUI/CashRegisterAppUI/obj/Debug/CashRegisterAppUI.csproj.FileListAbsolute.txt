@@ -1,0 +1,12 @@
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\bin\Debug\CashRegisterAppUI.exe.config
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\bin\Debug\CashRegisterAppUI.exe
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\bin\Debug\CashRegisterAppUI.pdb
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.csproj.AssemblyReference.cache
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.csproj.SuggestedBindingRedirects.cache
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.AuthorizationWindow.resources
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.CashRegisterAppUI.resources
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.Properties.Resources.resources
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.csproj.GenerateResource.cache
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.csproj.CoreCompileInputs.cache
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.exe
+E:\CODE REPOS\CashRegisterApp\CashRegisterAppUI\CashRegisterAppUI\obj\Debug\CashRegisterAppUI.pdb
