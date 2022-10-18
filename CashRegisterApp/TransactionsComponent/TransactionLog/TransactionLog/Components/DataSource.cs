@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using System;
+using System.IO;
 
 namespace Transactions
 {
@@ -9,7 +10,7 @@ namespace Transactions
             Persist Security Info=False;User ID=Vlad;Password=Apicultor__69;MultipleActiveResultSets=False;
             Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
-        private readonly string _transactionsAmountPath = @"E:\CODE REPOS\CashRegisterApp\TransactionsComponent\TransactionLog\TransactionLog\TotalAmount\TransactionsAmount.txt";
+        private readonly string _transactionsAmountPath = $@"C:\Users\{Environment.UserName}\Documents\TransactionsAmount.txt";
 
         public string ConnectionString { get => _connectionString; }
 

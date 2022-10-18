@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AutentificationEnglish.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Deposit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DepositRomanian.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EnglishMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LanguageSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AutentificationRomanian.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReciptEnglishAsk.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ReciptRomanian.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="RomanianMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SoldInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SoldRomanian.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="StandBy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Withdraw.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WithdrawRomanian.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,8 +1,0 @@
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\bin\Debug\GtaCheatsApp.exe.config
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\bin\Debug\GtaCheatsApp.exe
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\bin\Debug\GtaCheatsApp.pdb
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\obj\Debug\GtaCheatsApp.csproj.AssemblyReference.cache
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\obj\Debug\GtaCheatsApp.csproj.SuggestedBindingRedirects.cache
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\obj\Debug\GtaCheatsApp.csproj.CoreCompileInputs.cache
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\obj\Debug\GtaCheatsApp.exe
-E:\CODE REPOS\Gta Cheats Library App\GtaCheatsApp.demo\GtaCheatsApp\obj\Debug\GtaCheatsApp.pdb

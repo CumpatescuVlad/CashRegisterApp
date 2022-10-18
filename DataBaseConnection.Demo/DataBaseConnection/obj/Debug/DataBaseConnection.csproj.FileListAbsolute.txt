@@ -1,0 +1,8 @@
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\bin\Debug\DataBaseConnection.exe.config
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\bin\Debug\DataBaseConnection.exe
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\bin\Debug\DataBaseConnection.pdb
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\obj\Debug\DataBaseConnection.csproj.AssemblyReference.cache
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\obj\Debug\DataBaseConnection.csproj.SuggestedBindingRedirects.cache
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\obj\Debug\DataBaseConnection.csproj.CoreCompileInputs.cache
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\obj\Debug\DataBaseConnection.exe
+E:\CODE REPOS\DataBaseConnection.Demo\DataBaseConnection\obj\Debug\DataBaseConnection.pdb

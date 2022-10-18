@@ -1,0 +1,15 @@
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\bin\Debug\net6.0\AsynchronusProgramming.exe
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\bin\Debug\net6.0\AsynchronusProgramming.deps.json
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\bin\Debug\net6.0\AsynchronusProgramming.runtimeconfig.json
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\bin\Debug\net6.0\AsynchronusProgramming.dll
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\bin\Debug\net6.0\AsynchronusProgramming.pdb
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.csproj.AssemblyReference.cache
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.AssemblyInfoInputs.cache
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.AssemblyInfo.cs
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.csproj.CoreCompileInputs.cache
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.dll
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\refint\AsynchronusProgramming.dll
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.pdb
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\AsynchronusProgramming.genruntimeconfig.cache
+E:\CODE REPOS\AsynchronusProgramming.Demo\AsynchronusProgramming\obj\Debug\net6.0\ref\AsynchronusProgramming.dll
