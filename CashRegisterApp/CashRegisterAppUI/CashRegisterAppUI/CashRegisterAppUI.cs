@@ -82,6 +82,16 @@ namespace CashRegisterAppUI
             Write(0);
 
         }
+        private void multiplyButton_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += "X";
+
+        }
+
+        private void BackSpaceButton_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = textBox1.Text.Remove(textBox1.Text.Length - 1, 1);
+        }
         #endregion
 
 
@@ -116,8 +126,11 @@ namespace CashRegisterAppUI
             //Total Button
 
             recipt.LowerSideRecipt();
+
             insert.PushTransactionData();
+
             MessageBox.Show($"{File.ReadAllText(cache.ReciptPath)}");
+
             cache.DisposeData(cache.NumberOfProducts);
             cache.DisposeData(cache.Barcode);
             cache.DisposeData(cache.NumberOfArticlesPath);
@@ -139,15 +152,6 @@ namespace CashRegisterAppUI
 
         }
 
-        private void multiplyButton_Click(object sender, EventArgs e)
-        {
-            textBox1.Text += "X";
-
-        }
-
-        private void BackSpaceButton_Click(object sender, EventArgs e)
-        {
-            textBox1.Text=textBox1.Text.Remove(textBox1.Text.Length-1,1);
-        }
+       
     }
 }
