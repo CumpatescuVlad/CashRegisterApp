@@ -23,9 +23,9 @@ namespace CashRegisterAppUI
 
             connection.Open();
 
-            SqlCommand command = new SqlCommand(data.QuerryString(), connection);
+            SqlCommand getProductData = new SqlCommand(data.QuerryString(), connection);
 
-            SqlDataReader reader = command.ExecuteReader();
+            SqlDataReader reader = getProductData.ExecuteReader();
 
             while (reader.Read())
             {
